@@ -1,7 +1,3 @@
-# UNCG ISM647 ML1 Assignment
-
-This repository contains the project files for the ISM647 ML1 assignment at the University of North Carolina at Greensboro. The project is focused on demonstrating and applying machine learning concepts using Python. This project is a practical application of machine learning techniques learned in the ISM647 course.
-
 ## Project Overview
 
 The goal of this assignment is to apply various machine-learning algorithms to the given problem:
@@ -30,4 +26,4 @@ Before you begin, ensure you have the following tools and libraries installed:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/acntspell/uncg_ism647_ml1_assignment.git
+git clone https://github.com/acntspell/ML_Classification_Models.git
